@@ -1,5 +1,5 @@
-<h1 align="center">Financial-Aid-Analysis</h1>
-<p align="center">Analyzed financial aid variables to highlight academic and demographic differences between students across states using Python</p>
+<h1 align="center">KP Dashboard</h1>
+<p align="center"></p>
 
 ## 👷 Built With
 
